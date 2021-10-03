@@ -1,3 +1,7 @@
-print("NARUTO IS BETTER THAN BREAKING BAD")
-print("kid.... watch it first")
-print( hfdj f bdvjdv fdkv dskf****")
+#include <stdio.h>
+int  main(){
+  
+printf("dhjvfhsvf");
+
+printf("hi hf akjk vk v h fs f b");
+}
